@@ -1,4 +1,3 @@
-
 # Live Translator
 
 This project is a Live Translator built using HTML, CSS, and JavaScript. It enables users to translate text in real-time from one language to another.
